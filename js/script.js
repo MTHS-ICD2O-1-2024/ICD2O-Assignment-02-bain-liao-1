@@ -7,7 +7,7 @@
 "use strict"
 
 /**
- * This function calculates the area of a triangle.
+ * This function calculates the area of a parallelogram.
  */
 function calculateAreaOfParallelogram () {
   // input
